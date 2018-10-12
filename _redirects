@@ -1,1 +1,2 @@
 /https://www.webdino.org/*   https://www.webdino.org/:splat  200
+/webdino.org/ path=:path *   https://www.webdino.org/:path   200
